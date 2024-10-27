@@ -2,7 +2,7 @@
 layout: default
 ---
 [[English](../index.html)]
-## Hello!
+## Hola!
 
 ### Trabajo
 Soy un ingeniero de software, particularmente interesado en bioinformática pero con experiencia en varias áreas y tecnologías.
