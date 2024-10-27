@@ -3,8 +3,7 @@ layout: default
 ---
 
 ### Hello!
-https://0.gravatar.com/avatar/ef165f981585028941e5274960857ebeff2fd58354427f3b9abac051b1202a6b?size=256
-![Octocat](https://0.gravatar.com/avatar/ef165f981585028941e5274960857ebeff2fd58354427f3b9abac051b1202a6b?size=256)
+![me_small](./assets/images/me_small.jpg)
 
 ## Professional
 I'm a software engineer, particularly interested in bioinformatics but with experience in a range of fields, using different technologies.
