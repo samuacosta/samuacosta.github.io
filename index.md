@@ -3,15 +3,15 @@ layout: default
 ---
 
 ## Hello!
-Sam here.
-![me_small](./assets/images/me_small.jpg)
 
 ### Work
 I'm a software engineer, particularly interested in bioinformatics but with experience in a range of fields, using different technologies.
 *   [LinkedIn](https://www.linkedin.com/in/samuelacosta).
 *   [GitHub](https://github.com/samuacosta).
 
+
 * * *
+
 
 ### Personal
 I live in Paraguay, I like music, nerdy stuff, weird films, beer. I'm a philosophy enthusiast, and maybe a BA if I ever finish my dissertation. Things I do/care about:
