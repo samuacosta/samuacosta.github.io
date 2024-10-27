@@ -4,15 +4,15 @@ layout: default
 [[English](../index.html)]
 ## Hello!
 
-### Work
-I'm a software engineer, particularly interested in bioinformatics but with experience in a range of fields, using different technologies.
+### Trabajo
+Soy un ingeniero de software, particularmente interesado en bioinformática pero con experiencia en varias áreas y tecnologías.
 *   [LinkedIn](https://www.linkedin.com/in/samuelacosta)
 *   [GitHub](https://github.com/samuacosta)
 
 * * *
 
 ### Personal
-I live in Paraguay, I like music, nerdy stuff, weird films, beer. I'm a philosophy enthusiast, and maybe a BA if I ever finish my dissertation. Things I do/care about:
+Vivo en Paraguay, me gusta la música, cosas nerd, películas raras, cerveza. Soy un entusiasta de la filosofía, y quizás un licenciado si alguna vez termino mi tesis. Cosas que hago/que me importan:
 *   [Cineclub Itinerante](https://www.instagram.com/cineclub.itinerantepy)
 *   [Filosofía en Movimiento](https://www.instagram.com/filosofia_en_movimiento_py)
 *   [Sociedad Paraguaya de Filosofía](https://www.facebook.com/FilosofiaPy)
