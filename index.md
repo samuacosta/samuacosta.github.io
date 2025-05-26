@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### [[Español](./es.html)]
+[[Español](./es.html)]
 ## Hello!
 
 ### Work
